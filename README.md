@@ -14,10 +14,10 @@ Une solution backend robuste et scalable pour la gestion des données étudiante
 
 <div align="center">
   <h3>Architecture MVC</h3>
-  <img src="assets/mvc.png" width="600" alt="MVC Architecture" />
+  <img src="https://res.cloudinary.com/dqgsl5uu4/image/upload/f_auto,q_auto/mvc_di6uyb" width="600" alt="MVC Architecture" />
   <br><br>
   <h3>Dashboard Étudiant (Concept)</h3>
-  <img src="assets/dashboard.png" width="600" alt="Dashboard Mockup" />
+  <img src="https://res.cloudinary.com/dqgsl5uu4/image/upload/f_auto,q_auto/dashboard_fwbxly" width="600" alt="Dashboard Mockup" />
   <br><br>
   <h3>Test API avec Postman</h3>
   <img src="https://res.cloudinary.com/dqgsl5uu4/image/upload/f_auto,q_auto/post_method_image_dxttuf" width="600" alt="Postman Request" />
