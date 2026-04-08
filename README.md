@@ -20,7 +20,7 @@ Une solution backend robuste et scalable pour la gestion des données étudiante
   <img src="assets/dashboard.png" width="600" alt="Dashboard Mockup" />
   <br><br>
   <h3>Test API avec Postman</h3>
-  <img src="assets/post_method_image.png" width="600" alt="Postman Request" />
+  <img src="https://res.cloudinary.com/dqgsl5uu4/image/upload/f_auto,q_auto/post_method_image_dxttuf" width="600" alt="Postman Request" />
 </div>
 
 ---
