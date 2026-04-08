@@ -118,5 +118,5 @@ Distribué sous la licence **ISC**.
 
 ---
 <div align="center">
-  Développé avec ❤️ par Antigravity
+  Développé par Ayoub Aguezar
 </div>
