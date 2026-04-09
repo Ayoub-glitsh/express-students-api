@@ -20,7 +20,7 @@ Une solution backend robuste et scalable pour la gestion des données étudiante
   <h3>Dashboard Étudiant (Concept)</h3>
   <img src="https://res.cloudinary.com/dqgsl5uu4/image/upload/f_auto,q_auto/dashboard_fwbxly" width="600" alt="Dashboard Mockup" />
   <br><br>
-  <h3>Test API avec Postman</h3>
+  <h3>test avec thunder client</h3>
   <img src="https://res.cloudinary.com/dqgsl5uu4/image/upload/f_auto,q_auto/post_method_image_dxttuf" width="600" alt="Postman Request" />
 </div>
 
