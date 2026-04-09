@@ -1,3 +1,4 @@
+
 # 🎓 Student Management API - Architecture MVC
 
 ![License](https://img.shields.io/badge/license-ISC-blue.svg)
